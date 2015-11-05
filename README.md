@@ -73,7 +73,7 @@ You can review those examples and tests as another way to learn more about what 
 
 This package was created with configuration in mind, if you haven't used this component before, you can simply run:
 
-`php artisan vendor:publish --provider='Styde\Html\HtmlServiceProvider'`
+`php artisan vendor:publish --provider=Styde\Html\HtmlServiceProvider`
 
 this will publish all the configuration options to: `config/html.php` file, where you can explore and read the comments to learn more about the configuration options and their values.
     
